@@ -1,1 +1,1 @@
-Source for stereo vision
+Source code for stereo vision and camera calibration
