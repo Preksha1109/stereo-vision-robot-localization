@@ -42,7 +42,7 @@ To detect objects in the camera frame and estimate their **3D position in space*
 
 The following result demonstrates real-time object tracking using a **single monocular camera**, serving as the basis for depth estimation and 3D localization.
 
-![Object Tracker - Single Camera](results/Object Tracker 5(Single Cam).png)
+![Object Tracker 5 (Single Cam)](results/Object%20Tracker%205(Single%20Cam).png)
 
 
 ## 📌 Why This Project Matters
