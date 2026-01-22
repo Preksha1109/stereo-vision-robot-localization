@@ -38,6 +38,12 @@ To detect objects in the camera frame and estimate their **3D position in space*
 - Computer Vision Toolbox
 
 ---
+## 🎯 Object Tracking (Single Camera)
+
+The following result demonstrates real-time object tracking using a **single monocular camera**, serving as the basis for depth estimation and 3D localization.
+
+![Object Tracker - Single Camera](results/Object Tracker 5(Single Cam).png)
+
 
 ## 📌 Why This Project Matters
 Shows ability to:
